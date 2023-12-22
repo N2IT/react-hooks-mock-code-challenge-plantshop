@@ -43,16 +43,10 @@
       "price": 55
     },
     {
-      "name": "purple nurple",
-      "image": "https://cdn.britannica.com/39/123539-050-837C3C7C/Hemp.jpg",
-      "price": "299",
-      "id": 8
-    },
-    {
-      "name": "Maui Wowie",
-      "image": "https://images.pexels.com/photos/207891/pexels-photo-207891.jpeg?auto=compress&cs=tinysrgb&w=300",
-      "price": "129.99",
-      "id": 9
+      "name": "ShrubbaDub",
+      "image": "https://www.treehugger.com/thmb/H2bHeKVY4CFM3aEPGUL6dUf88Bw=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-493238552-9772c8d6c81f48be8f9360881f811a29.jpg",
+      "price": "12.95",
+      "id": 10
     }
   ]
 }
