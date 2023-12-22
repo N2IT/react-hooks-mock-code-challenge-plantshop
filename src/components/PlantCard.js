@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function PlantCard({ plant }) {
-  const { id, image, name, price, inStock } = plant;
+  const { id, image, name, price } = plant;
   const [isInStock, setIsInStock] = useState(true);
 
   function handleStockClick() {

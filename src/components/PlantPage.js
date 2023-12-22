@@ -3,7 +3,7 @@ import NewPlantForm from "./NewPlantForm";
 import PlantList from "./PlantList";
 import Search from "./Search";
 
-function PlantPage({ plants, setPlants }) {
+function PlantPage({ plants, setPlants, search, setSearch, onSearch }) {
 
   function onAddPlant(newPlant) {
     setPlants([...plants, newPlant])
@@ -12,7 +12,7 @@ function PlantPage({ plants, setPlants }) {
   return (
     <main>
       <NewPlantForm plants={plants} onAddPlant={onAddPlant} />
-      <Search />
+      <Search onSearch={onSearch} search={search} setSearch={setSearch} />
       <PlantList plants={plants} />
     </main>
   );
