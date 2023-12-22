@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "purple nurple",
+      "image": "https://cdn.britannica.com/39/123539-050-837C3C7C/Hemp.jpg",
+      "price": "299",
+      "id": 8
+    },
+    {
+      "name": "Maui Wowie",
+      "image": "https://images.pexels.com/photos/207891/pexels-photo-207891.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "price": "129.99",
+      "id": 9
     }
   ]
 }
